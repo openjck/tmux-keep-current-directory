@@ -8,7 +8,6 @@ and panes.
 
     ```
     set -g @plugin 'openjck/tmux-keep-current-directory'
-
     ```
 3. Press `prefix + I`
 
